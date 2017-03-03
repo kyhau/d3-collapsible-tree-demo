@@ -1,7 +1,7 @@
 # d3-collapsible-tree-demo
 Example of displaying data in a collapsible tree using [D3.js](https://d3js.org/)
 
-[Demo](collapsible_tree.html)
+[Demo](https://kyhau.github.io/d3-collapsible-tree-demo/collapsible_tree.html)
 
 ## Run locally
 
