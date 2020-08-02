@@ -9,6 +9,8 @@ Example of displaying data in a collapsible tree using [D3.js](https://d3js.org/
 
 1. Copy `collapsible_tree.html` and `input_graph_tree.json` to the same folder.
 
-1. Run `python -m SimpleHTTPServer 8080`
+2. Run 
+<br>Python 3: `python -m http.server 8080`
+<br>Python 2: `python -m SimpleHTTPServer 8080`
 
-1. URL: localhost:8080/collapsible_tree.html
+3. URL: localhost:8080/collapsible_tree.html
